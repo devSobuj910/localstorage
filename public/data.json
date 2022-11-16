@@ -1,0 +1,122 @@
+[
+  {
+    "id": "6374a794d2d8384cab5dfa04",
+    "email": "jill_french@netropic.pics",
+    "roles": ["member", "guest"],
+    "apiKey": "213fa5bb-1972-4bcd-b3b6-61df28dee75d",
+    "profile": {
+      "dob": "1988-04-03",
+      "name": "Jill French",
+      "about": "Adipisicing minim sit ea irure aute labore consectetur voluptate et duis elit dolor aute. Adipisicing ad duis incididunt quis nulla tempor anim nulla ex officia esse reprehenderit.",
+      "address": "27 Gem Street, Grill, Massachusetts",
+      "company": "Netropic",
+      "location": {
+        "lat": 84.997783,
+        "long": 31.783496
+      }
+    },
+    "username": "jill88",
+    "createdAt": "2012-02-12T09:25:56.840Z",
+    "updatedAt": "2012-02-13T09:25:56.840Z"
+  },
+  {
+    "id": "6374a7945fcf7cb54f58a4e6",
+    "email": "hanson_snow@comstruct.website",
+    "roles": ["admin", "member"],
+    "apiKey": "cf9536aa-01b7-42b1-8f7d-ac7581baccfc",
+    "profile": {
+      "dob": "1988-02-27",
+      "name": "Hanson Snow",
+      "about": "Consectetur irure qui et consectetur. Amet veniam commodo consequat nostrud qui excepteur dolor ad dolor commodo velit.",
+      "address": "32 Middagh Street, Greer, Louisiana",
+      "company": "Comstruct",
+      "location": {
+        "lat": 87.539528,
+        "long": 19.786812
+      }
+    },
+    "username": "hanson88",
+    "createdAt": "2010-07-08T17:01:14.620Z",
+    "updatedAt": "2010-07-09T17:01:14.620Z"
+  },
+  {
+    "id": "6374a794dab4b8e6442ae326",
+    "email": "glover_waters@zillactic.la",
+    "roles": ["guest", "member"],
+    "apiKey": "67f7577e-40ef-4bf0-bedc-87d467d0639e",
+    "profile": {
+      "dob": "1994-02-06",
+      "name": "Glover Waters",
+      "about": "Tempor ullamco quis cupidatat officia laborum laboris ipsum excepteur adipisicing. Nulla duis aliquip ut ipsum do aliquip culpa deserunt do.",
+      "address": "28 Clinton Street, Waukeenah, Wyoming",
+      "company": "Zillactic",
+      "location": {
+        "lat": -43.224351,
+        "long": -80.492456
+      }
+    },
+    "username": "glover94",
+    "createdAt": "2014-11-13T00:38:57.389Z",
+    "updatedAt": "2014-11-14T00:38:57.389Z"
+  },
+  {
+    "id": "6374a7947027763e8aa72c33",
+    "email": "meagan_dickson@extragen.courses",
+    "roles": ["guest", "admin"],
+    "apiKey": "21720741-a254-4903-bfd9-d093c7132084",
+    "profile": {
+      "dob": "1992-06-21",
+      "name": "Meagan Dickson",
+      "about": "Incididunt deserunt duis culpa nulla nisi veniam exercitation aute in. Eu laborum do eiusmod irure velit irure commodo aliqua elit commodo.",
+      "address": "99 Ovington Avenue, Longoria, California",
+      "company": "Extragen",
+      "location": {
+        "lat": -82.545856,
+        "long": -26.883089
+      }
+    },
+    "username": "meagan92",
+    "createdAt": "2013-07-15T05:10:08.249Z",
+    "updatedAt": "2013-07-16T05:10:08.249Z"
+  },
+  {
+    "id": "6374a794e83d7f92b6ffa7b7",
+    "email": "montgomery_dalton@corepan.villas",
+    "roles": ["owner", "member"],
+    "apiKey": "f0345ca8-352f-4c37-a8a8-b1d3200c2a90",
+    "profile": {
+      "dob": "1994-02-04",
+      "name": "Montgomery Dalton",
+      "about": "Velit labore non amet sit. Non tempor voluptate commodo magna reprehenderit elit eu.",
+      "address": "80 Foster Avenue, Katonah, North Carolina",
+      "company": "Corepan",
+      "location": {
+        "lat": -35.813668,
+        "long": -64.484261
+      }
+    },
+    "username": "montgomery94",
+    "createdAt": "2013-10-30T10:30:57.203Z",
+    "updatedAt": "2013-10-31T10:30:57.203Z"
+  },
+  {
+    "id": "6374a7949630f6d52689aaff",
+    "email": "larson_jacobson@zerology.saxo",
+    "roles": ["member"],
+    "apiKey": "79078ec5-9685-4ad0-a5ea-f75752987025",
+    "profile": {
+      "dob": "1992-05-25",
+      "name": "Larson Jacobson",
+      "about": "Proident ex et est non irure voluptate do esse excepteur voluptate. Commodo ut ullamco qui incididunt et reprehenderit ipsum et eiusmod consequat.",
+      "address": "40 Dakota Place, Brantleyville, Alaska",
+      "company": "Zerology",
+      "location": {
+        "lat": -24.525205,
+        "long": -110.347827
+      }
+    },
+    "username": "larson92",
+    "createdAt": "2012-07-05T19:11:40.585Z",
+    "updatedAt": "2012-07-06T19:11:40.585Z"
+  }
+]
